@@ -1,0 +1,3 @@
+1. Belajar tentang dasar-dasar github
+2. mengetahui tentang branch dan mergin
+3. mempelajari cara upload file codingan di github
