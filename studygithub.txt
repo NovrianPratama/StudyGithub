@@ -1,5 +1,6 @@
-1. Belajar tentang dasar-dasar github
+
 2. mengetahui tentang branch dan mergin
 3. mempelajari cara upload file codingan di github
 4. mempelajari pull dan push
 5. mempelajari cara bekerja kolaborasi di github
+6. mempelajari cara pakai git
