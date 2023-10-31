@@ -1,0 +1,9 @@
+proses belajar pweb 
+belajar html dan css
+-mempelajari sintaks dasar html
+-mempelajari properti yang ada di css
+-membuat portofolio website pribadi
+
+belajar php 
+-mempelajari dasar-dasar php
+-uas membuat project yang ada studi kasus
